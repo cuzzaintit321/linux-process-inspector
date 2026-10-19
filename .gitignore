@@ -1,0 +1,6 @@
+/build/
+/reports/
+*.local.json
+*.log
+__pycache__/
+.env
