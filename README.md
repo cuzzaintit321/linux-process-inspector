@@ -1,5 +1,7 @@
 # Linux Process Inspector
 
+![linux-process-inspector project banner](docs/project-banner.webp)
+
 A read-only **C11** command-line app that reads Linux `/proc` process status files, sorts processes by resident memory/PID/name, filters by name or UID, and prints a table or JSON.
 
 Built as a new learning and portfolio project for Jason Edwards. It does not claim production deployment or employer use. The app itself is C; a small Python standard-library test harness exercises the compiled binary.
